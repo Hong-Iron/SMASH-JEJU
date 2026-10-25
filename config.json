@@ -20,5 +20,70 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "공과대학 4호관": {
+      "style": "ribbon",
+      "wall": "#d6d8d6",
+      "glass": "#5a6c78",
+      "frame": "#9aa2a3"
+    },
+    "본관": {
+      "style": "stone",
+      "wall": "#e9e9e6",
+      "glass": "#4f5560",
+      "frame": "#a7aeb8"
+    },
+    "아라뮤즈홀": {
+      "style": "glass",
+      "wall": "#e8eaec",
+      "glass": "#6f8796",
+      "frame": "#c9cdd2"
+    },
+    "인문대학 2호관": {
+      "style": "ribbon",
+      "wall": "#c9b49c",
+      "glass": "#4f5a62",
+      "frame": "#8f8b80"
+    },
+    "학생생활관 3호관 A동": {
+      "style": "dorm",
+      "wall": "#e4d8c4",
+      "glass": "#4f5458",
+      "frame": "#b6a697",
+      "hip": true,
+      "roof": "#d9805c"
+    },
+    "학생회관": {
+      "style": "ribbon",
+      "wall": "#e8ecee",
+      "glass": "#4a5f86",
+      "frame": "#9096a6"
+    },
+    "학생생활관 5호관": {
+      "style": "dorm",
+      "wall": "#dfe3e6",
+      "glass": "#4c5a6e",
+      "frame": "#6b7380"
+    },
+    "자연과학대학 1호관": {
+      "style": "stone",
+      "wall": "#aeb2b5",
+      "glass": "#3e4650",
+      "frame": "#8a8f94"
+    },
+    "의과대학": {
+      "style": "stone",
+      "wall": "#eceeed",
+      "glass": "#3c656b",
+      "frame": "#c9cfcf"
+    },
+    "바이오융합센터2호관 기업지원동": {
+      "style": "tan",
+      "wall": "#d8c39e",
+      "glass": "#3d4f5c",
+      "frame": "#e8e8e6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
